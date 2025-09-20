@@ -3,4 +3,4 @@ A (mostly*) working version of  seraphim291_'s Dungeon Goats resource pack.    <
 based on the code of Visual Screaming Goats on PMC                             </br></br>
 (*baby goats do not have the stumpy horns they have in Minecraft Dungeons)     </br></br>
 
-<h2 style="colour: red;">*Resource pack requires EMF*</h2>                                          
+<h2>*Resource pack requires EMF*</h2>                                          
